@@ -1,0 +1,86 @@
+.wpeacock_container{
+	margin:30px 10px 10px 10px;
+}
+.socialpost_Headers1{
+	font-size:26px;
+}
+.socialpost_Headers2{
+	font-size:20px;
+}
+.socialpost_Headers3{
+	font-size:17px;
+}
+
+.socialpost_del_link{
+	color: red !important;
+}
+
+.socialpost_con_name{
+
+}
+
+
+/* tabls tyles */
+.socialpost_tables {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+	
+}
+
+.socialpost_tables td, .socialpost_tables th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.socialpost_tables th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+  
+}
+
+/* icons */
+
+.socialpost_con_icons{
+	width:25px;
+	margin-left:5px;
+}
+
+.socialpost_con_icon{
+	width: 55px;
+	height: auto;
+	float:left;
+}
+
+/* connection text styles */
+.socialpost_con_title{
+	float:left;
+	margin-top: 13px !important;
+	margin-left: 10px !important;
+}
+.socialpost_con_pros{
+	display: block;
+	float: left;
+	width: 100%;
+	position: relative;
+	left: 68px;
+	top: -12px;
+}
+
+.socialpost_con_pros p{
+	margin-top: 2px !important;
+	margin-bottom: 2px !important;
+}
+
+.socialpost_metabox{
+	margin-bottom: 10px;
+}
+
+.socialpost_metabox textarea{
+	width: 100%;
+}
+.socialpost_metabox label{
+vertical-align: top;
+display: block;
+}
